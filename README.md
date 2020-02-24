@@ -4,3 +4,4 @@ GIT első gyakorlás
 Ez egy sor
 Ez mégegy sor
 Ez egy harmadik sor
+Ez a negyedik sor
